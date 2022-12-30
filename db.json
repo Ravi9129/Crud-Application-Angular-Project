@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "rasggulle",
+      "category": "Sweets",
+      "freshness": "New Brand",
+      "price": 2,
+      "Comment": "good",
+      "date": "2022-12-15T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronic",
+      "freshness": "New Brand",
+      "price": 1,
+      "Comment": "so nice\n",
+      "date": "2022-09-02T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "charger",
+      "category": "Electronic",
+      "freshness": "New Brand",
+      "price": 5,
+      "Comment": "good quality",
+      "date": "2022-12-15T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
